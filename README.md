@@ -4,7 +4,7 @@
 ### How to use
 [日本語](https://arad-blog.tk/posts/309)
 
-1. [Download](https://github.com/aradtamako/AradAutoExpedition/releases)
+1. [Download](https://github.com/aradtamako/AradAutoBurger/releases)
 2. set client resolution 1600x900
 3. open arad burger window
 4. run AradAutoBurger.exe
